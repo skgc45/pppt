@@ -1,0 +1,7 @@
+click==6.7
+Flask==1.0.2
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.0
+-e git+https://github.com/skgc45/pppt.git@5ec07f011eafd234100e1c395be3c53c792d07a8#egg=norilog
+Werkzeug==0.14.1

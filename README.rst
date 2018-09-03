@@ -45,5 +45,6 @@ Webブラウザーでコメントを投稿するWebアプリケーションの�
         $ python3.6 -m venv --clear -venv
         $ source venv/bin/activate
         (venv) $ pip install -e ./norilog
+        (venv) $ freeze > requirements.txt
 
-3.setup.pyをリポジトリにコミットする
+3.setup.pyとrequirements.txtをリポジトリにコミットする
